@@ -25,7 +25,7 @@ Here are some highlights of my work:
 
 🔗 Data Structures  : Here is my Coding Ninja profile https://www.naukri.com/code360/profile/sourav_2024 .
 
-🔗 Internship 1 CodeAlphaIntern  : Web Development internship in which worked on almost 5-6 projects in web dev. 
+🔗 Internship 1 CodeAlphaIntern  : Web Development internship in which worked on almost 5-6 projects in web dev. https://github.com/sourav2024/CodeAlphaWebIntern
 
 🔗 CodeSoft C Intern : C++ internship worked on many projects. 
 
