@@ -27,7 +27,7 @@ Here are some highlights of my work:
 
 🔗 Internship 1 CodeAlphaIntern  : Web Development internship in which worked on almost 5-6 projects in web dev. https://github.com/sourav2024/CodeAlphaWebIntern
 
-🔗 CodeSoft C Intern : C++ internship worked on many projects. 
+🔗 CodeSoft C Intern : C++ internship worked on many projects. https://github.com/sourav2024/CodSoft-C-Intern
 
 🔗 Personal Projects : Will update soon.
 
