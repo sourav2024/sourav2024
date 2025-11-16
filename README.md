@@ -4,7 +4,7 @@ Welcome to my GitHub profile! I'm a passionate software developer with a strong 
 ## 🚀 About Me
 💻 Full Stack Developer at Zversal Private Limited
 
-🌐 Experienced in PHP, React Native, JavaScript, C++, Data Structures, React, and more.
+🌐 Experienced in  React Native, JavaScript, Node js, C++, Data Structures, React, and more.
 
 🧠 Constantly exploring new technologies and improving my skills.
 
@@ -13,32 +13,11 @@ Welcome to my GitHub profile! I'm a passionate software developer with a strong 
 ## 🛠️ Technologies & Tools
 Front-End: React, React Native, HTML5, CSS3, JavaScript (ES6+)
 
-Back-End: PHP, Node.js, Express
+Back-End: Go lang, Node.js, Express
 
 Databases: MySQL, MongoDB, GraphDB
 
 Other: C++, Git, REST APIs, Redux, Firebase
-
-## 📚 Projects & Contributions
-
-Here are some highlights of my work:
-
-🔗 Data Structures  : Here is my Coding Ninja profile https://www.naukri.com/code360/profile/sourav_2024 .
-
-🔗 Internship 1 CodeAlphaIntern  : Web Development internship in which worked on almost 5-6 projects in web dev. https://github.com/sourav2024/CodeAlphaWebIntern
-
-🔗 CodeSoft C Intern : C++ internship worked on many projects. https://github.com/sourav2024/CodSoft-C-Intern
-
-🔗 Personal Projects : Will update soon.
-
-Feel free to explore my repositories for more!
-
-🌱 Currently Learning
-Advanced React Native techniques
-Hands on Mern Stack 
-Data Structures 
-System Design 
-Many more in the queue...
 
 📫 How to Reach Me
 
