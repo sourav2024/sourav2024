@@ -1,31 +1,79 @@
-# Hi there, I'm Sourav 👋
-Welcome to my GitHub profile! I'm a passionate software developer with a strong foundation in various technologies and a keen interest in continuous learning and innovation.
+# Hi, I'm Sourav Kashyap 👋
 
-## 🚀 About Me
-💻 Full Stack Developer at Zversal Private Limited
+I'm a **Full Stack Engineer** at **Truxo FleetPulse LLP**, building software for logistics and transportation. I enjoy solving real-world engineering problems—from production debugging and backend architecture to cloud infrastructure and scalable systems.
 
-🌐 Experienced in  React Native, JavaScript, Node js, C++, Data Structures, React, and more.
+## 🚀 What I Work On
 
-🧠 Constantly exploring new technologies and improving my skills.
+* Building scalable backend services with **Node.js**, **NestJS**, and **Express**
+* Developing cross-platform mobile applications with **React Native**
+* Designing APIs, database schemas, and distributed systems
+* Debugging production issues and improving system reliability
+* Working with cloud infrastructure on **AWS**
 
-🎯 Focused on building efficient, scalable, and user-friendly applications.
+## 🛠 Tech Stack
 
-## 🛠️ Technologies & Tools
-Front-End: React, React Native, HTML5, CSS3, JavaScript (ES6+)
+**Languages**
 
-Back-End: Go lang, Node.js, Express
+* JavaScript (ES6+)
+* TypeScript
+* C++
+* SQL
 
-Databases: MySQL, MongoDB, GraphDB
+**Frontend**
 
-Other: C++, Git, REST APIs, Redux, Firebase
+* React
+* React Native
+* HTML5
+* CSS3
+* Redux Toolkit
 
-📫 How to Reach Me
+**Backend**
 
-LinkedIn: [ LinkedIn Profile](https://www.linkedin.com/in/sourav-kashyap-56b550269/)
+* Node.js
+* Express
+* REST APIs
+* GraphQL
 
-Email: souravkashyap7869@gmail.com
+**Databases**
 
+* MySQL
+* PostgreSQL
+* Prisma
+* MongoDB
+* Redis
 
-⚡ Fun Fact
-I’m a tech enthusiast who loves solving complex problems and working on open-source projects in my free time.
+**Cloud & DevOps**
 
+* AWS
+* Docker
+* GitHub Actions
+* Cloudflare
+* Firebase
+
+## 📚 Currently Exploring
+
+* System Design
+* Distributed Systems
+* AI-powered Applications
+* Cloud Architecture
+* Database Internals
+* Performance Engineering
+
+## ✍️ I Write About
+
+I enjoy documenting real-world engineering challenges, including:
+
+* Production debugging
+* Backend architecture
+* Database optimization
+* AWS
+* React Native
+* Software engineering lessons
+* System design
+
+## 🌍 Connect With Me
+
+* LinkedIn: https://www.linkedin.com/in/sourav-kashyap-56b550269/
+* Email: [souravkashyap7869@gmail.com](mailto:souravkashyap7869@gmail.com)
+
+> *Learning in public. Building reliable software. Solving one production problem at a time.*
