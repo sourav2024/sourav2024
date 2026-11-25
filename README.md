@@ -14,6 +14,7 @@ Based in Chandigarh, India (IST) · open to remote roles worldwide and to reloca
 | [**scale-guard**](https://github.com/sourav2024/scale-guard) | Scalability audits for Node.js on Postgres/MySQL: pool exhaustion, N+1, transactions with network I/O. Little's-law connection budgets. Agent Skill + CLI | [npm](https://www.npmjs.com/package/scale-guard) · [skills.sh](https://www.skills.sh/sourav2024/scale-guard) |
 | [**technical-seo-mcp**](https://github.com/sourav2024/seo-mcp) | MCP server with 14 technical-SEO tools for AI assistants: crawl, Lighthouse, sitemap, schema, AI-crawler access. SSRF-guarded | [npm](https://www.npmjs.com/package/technical-seo-mcp) |
 | **AI Vault** | Offline-first Android document vault. On-device OCR via custom Swift/Kotlin Expo modules. No internet permission | [Google Play](https://play.google.com/store/apps/details?id=com.souravkashyap.aivault) |
+| **Dabba Dash** | Android delivery-runner game rendered in code with React Native Skia. Deterministic fixed-step engine; a lane planner guarantees a survivable route | [Google Play](https://play.google.com/store/apps/details?id=com.souravkashyap.dabbadash) |
 
 Learning builds: [redix](https://github.com/sourav2024/redix) (Redis-compatible server in TypeScript) · [streamforge](https://github.com/sourav2024/streamforge) (HLS video pipeline) · [stripe-forge](https://github.com/sourav2024/stripe-forge) (double-entry payments ledger)
 
