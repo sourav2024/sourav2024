@@ -20,4 +20,4 @@ Learning builds: [redix](https://github.com/sourav2024/redix) (Redis-compatible 
 
 **Going deeper on:** PostgreSQL internals · distributed systems · AI engineering (evaluation, tool permissions, structured output)
 
-[LinkedIn](https://www.linkedin.com/in/sourav-kashyap-56b550269/) · [souravkashyap7869@gmail.com](mailto:souravkashyap7869@gmail.com)
+[souravkashyap.in](https://www.souravkashyap.in) · [LinkedIn](https://www.linkedin.com/in/sourav-kashyap-56b550269/) · [souravkashyap7869@gmail.com](mailto:souravkashyap7869@gmail.com)
